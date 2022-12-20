@@ -1,6 +1,6 @@
 ####  Hi, how are you?👋
 - 😎 I am Frontend Developer 
-- 📫 Shoot me an [Email](alimardon.begov@gmail.com) or add me on [LinkedIn](https://www.linkedin.com/in/alimardon-begov/) :)
+- 📫 Shoot me on [Telegram](t.me/alimardon_begov) or add me on [LinkedIn](https://www.linkedin.com/in/alimardon-begov/) :)
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alimardon-begov) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alimardon_begov) 
