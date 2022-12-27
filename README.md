@@ -17,7 +17,8 @@ Hacker News is a web app with News from the IT industry. It shows you the list o
 - Developed the architecture of the frontend application
 - Developed SPA with two pages using react router
 - Сreated design by myself and applied the best practices of UI / UX
-<p>Stack: React, Redux, Typescript, API, SCSS, HTML </p>
+<br/>
+Stack: ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB), ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white), ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white), ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white), ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white), API
 
 <!-- Progress bar -->
 ### <a href="https://github.com/alimardonbegov/progress_bar_component" target="blank"> Progress bar <img src="https://skillicons.dev/icons?i=github&theme=dark" width="20px" height="auto"/> </a>
