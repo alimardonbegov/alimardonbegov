@@ -17,8 +17,8 @@ Hacker News is a web app with News from the IT industry. It shows you the list o
 **Stack:** React, Redux, Typescript, API, SCSS, HTML
 <br/>
 
-![GitHub](https://skillicons.dev/icons?i=github,figma&theme=light)](https://skillicons.dev)
-[GitHyb](https://github.com/alimardonbegov/hacker_news_y), [Live project](https://abegov-hnews.web.app/)
+
+[![GitHub](https://skillicons.dev/icons?i=github,figma&theme=dark)]](https://github.com/alimardonbegov/hacker_news_y), [Live project](https://abegov-hnews.web.app/)
 
 
 
