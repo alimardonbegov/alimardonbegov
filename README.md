@@ -10,16 +10,17 @@
 
 ## 💻 My projects
 
-### Hacker News 
+### Hacker News  <a href="https://github.com/alimardonbegov/hacker_news_y" target="blank">
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="20px" height="auto"/>
+</a>
 
 Hacker News is a web app with News from the IT industry. It shows you the list of latest news with author and rating
 <br/>
 **Stack:** React, Redux, Typescript, API, SCSS, HTML
-<br/>
 
-<a href="https://github.com/alimardonbegov/hacker_news_y" target="blank">
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="20px" height="auto"/>
-</a>
+
+
+
 <!-- [![GitHub](https://skillicons.dev/icons?i=github,figma&theme=dark)]](https://github.com/alimardonbegov/hacker_news_y), [Live project](https://abegov-hnews.web.app/) -->
 
 
