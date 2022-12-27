@@ -13,6 +13,6 @@
 ### Hacker News [Repository](https://github.com/alimardonbegov/hacker_news_y), [Live project](https://abegov-hnews.web.app/)
 
 Hacker News is a web app with News from the IT industry. It shows you the list of latest news with author and rating
-
-#### Stack
+<br/>
+Stack:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white), ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white), ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white), ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
