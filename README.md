@@ -10,13 +10,13 @@
 
 ## 💻 My projects
 
-### Hacker News  <a href="https://github.com/alimardonbegov/hacker_news_y" target="blank"> <img src="https://skillicons.dev/icons?i=github&theme=dark" width="20px" height="auto"/> </a>
+### <a href="https://github.com/alimardonbegov/hacker_news_y" target="blank"> Hacker News <img src="https://skillicons.dev/icons?i=github&theme=dark" width="20px" height="auto"/> </a>
 
 Hacker News is a web app with News from the IT industry. It shows you the list of latest news with author and rating
 <br/>
 **Stack:** React, Redux, Typescript, API, SCSS, HTML
 
-### Weather App  <a href="https://github.com/alimardonbegov/weather" target="blank"> <img src="https://skillicons.dev/icons?i=github&theme=dark" width="20px" height="auto"/> </a>
+### <a href="https://github.com/alimardonbegov/weather" target="blank"> Weather App  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="20px" height="auto"/> </a>
 
 The Wheather app is a weather forecasting web apllication which shows current weather and 5 day forecast of any location.
 <br/>
