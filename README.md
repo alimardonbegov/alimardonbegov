@@ -16,4 +16,13 @@ Hacker News is a web app with News from the IT industry. It shows you the list o
 <br/>
 **Stack:** React, Redux, Typescript, API, SCSS, HTML
 <br/>
-[GitHyn](https://github.com/alimardonbegov/hacker_news_y), [Live project](https://abegov-hnews.web.app/)
+
+![GitHub](https://skillicons.dev/icons?i=github,figma&theme=light)](https://skillicons.dev)
+[GitHyb](https://github.com/alimardonbegov/hacker_news_y), [Live project](https://abegov-hnews.web.app/)
+
+
+
+
+Change the &theme=light to either dark or light. The theme is the background color, so light theme has a white icon background, and dark has a black-ish.
+Light Theme Example:
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
