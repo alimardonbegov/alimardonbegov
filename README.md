@@ -17,7 +17,6 @@ Hacker News is a web app with News from the IT industry. It shows you the list o
 - Developed SPA with two pages using react router
 - Сreated design by myself and applied the best practices of UI / UX
 <p>Stack: React, Redux, Typescript, API, SCSS, HTML </p>
-<br/>
 
 <!-- Weather App -->
 ### <a href="https://github.com/alimardonbegov/weather" target="blank"> Weather App <img src="https://skillicons.dev/icons?i=github&theme=dark" width="20px" height="auto"/> </a>
@@ -27,14 +26,13 @@ The Wheather app is a weather forecasting web apllication which shows current we
 - Developed SPA based on the design of some elements in Figma and modified the entire UI by myself
 - Implemented forecast page with detail information of any city for the next 5 days 
 <p>Stack: React, Redux, Axios, API, Node, Express, JS, SCSS, HTML </p>
-<br/>
 
 <!-- Game List -->
 ### <a href="https://github.com/alimardonbegov/games" target="blank"> Game List <img src="https://skillicons.dev/icons?i=github&theme=dark" width="20px" height="auto"/> </a>
 A web app for searching games depends on you platform. Find a game, check for availability on another game console.
 <br/>
 - Developed SPA with several content pages using react router
-- Create designe by myself with elements from open source (images, some animations etc.)
+- Create design by myself with elements from open source (images, some animations etc.)
 - Implemented a UI feature to display on each game card the relevant accessibility icons on different platforms
 <p>Stack: React, API, JS, SCSS, HTML </p>
 
@@ -44,7 +42,23 @@ Contacts is a web app for saving phone numbers of you friends or colleagues.
 <br/>
 - Developed Frontend and set up server environment using node + express
 - Implemented functionality as getting and changing information on backend and render results on client side
-<p>Stack:** React, Node, Express, API, JS, Bootstrap, HTML </p>
+<p>Stack: React, Node, Express, API, JS, Bootstrap, HTML </p>
+
+<!-- KEEPER-->
+### <a href="https://github.com/alimardonbegov/keeper" target="blank"> Keeper <img src="https://skillicons.dev/icons?i=github&theme=dark" width="20px" height="auto"/> </a>
+Keeper is a note-taking web app. You may create a lot of notes, save them and delete any of them.
+<br/>
+- Developed the architecture of the frontend application
+- Implemented functionality of creating and deleting several notes with title and content
+<p>Stack: React, Redux, JS, CSS, HTML </p>
+
+<!-- TO DO LIST-->
+### <a href="https://github.com/alimardonbegov/todolistreact" target="blank"> TO DO <img src="https://skillicons.dev/icons?i=github&theme=dark" width="20px" height="auto"/> </a>
+To Do List helps create a list of things you want to do throughout the day. Whenever you complete your task then you can delete it.
+<br/>
+- Developed the architecture of the frontend application
+- Implemented functionality of creating and deleting todo's items
+<p>Stack: React, Redux, JS, CSS, HTML </p>
 
 
 
