@@ -9,22 +9,18 @@
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
 ## 💻 My projects
-
+<!-- Hacker News -->
 ### <a href="https://github.com/alimardonbegov/hacker_news_y" target="blank"> Hacker News <img src="https://skillicons.dev/icons?i=github&theme=dark" width="20px" height="auto"/> </a>
-
 Hacker News is a web app with News from the IT industry. It shows you the list of latest news with author and rating
 <br/>
 **Stack:** React, Redux, Typescript, API, SCSS, HTML
-
-### <a href="https://github.com/alimardonbegov/weather" target="blank"> Weather App  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="20px" height="auto"/> </a>
-
+<!-- Weather App -->
+### <a href="https://github.com/alimardonbegov/weather" target="blank"> Weather App <img src="https://skillicons.dev/icons?i=github&theme=dark" width="20px" height="auto"/> </a>
 The Wheather app is a weather forecasting web apllication which shows current weather and 5 day forecast of any location.
 <br/>
 **Stack:** React, Redux, Axios, API, Node, Express, JS, SCSS, HTML
 
 
-
-<!-- [![GitHub](https://skillicons.dev/icons?i=github,figma&theme=dark)]](https://github.com/alimardonbegov/hacker_news_y), [Live project](https://abegov-hnews.web.app/) -->
 
 
 
