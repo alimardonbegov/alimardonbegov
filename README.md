@@ -10,9 +10,7 @@
 
 ## 💻 My projects
 
-### Hacker News  <a href="https://github.com/alimardonbegov/hacker_news_y" target="blank">
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="20px" height="auto"/>
-</a>
+### Hacker News  <a href="https://github.com/alimardonbegov/hacker_news_y" target="blank"> <img src="https://skillicons.dev/icons?i=github&theme=dark" width="20px" height="auto"/> </a>
 
 Hacker News is a web app with News from the IT industry. It shows you the list of latest news with author and rating
 <br/>
