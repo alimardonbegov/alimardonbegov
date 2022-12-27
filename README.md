@@ -12,7 +12,7 @@
 
 ### Hacker News
 
-Hacker News is a web app with News from the IT industry. It shows you the list of latest news with author and rating.
+Hacker News is a web app with News from the IT industry. It shows you the list of latest news with author and rating. <br/>
 [Repository](https://github.com/alimardonbegov/hacker_news_y), [Live project](https://abegov-hnews.web.app/)
 
 #### Stack
