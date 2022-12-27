@@ -60,9 +60,17 @@ To Do List helps create a list of things you want to do throughout the day. When
 - Implemented functionality of creating and deleting todo's items
 <p>Stack: React, Redux, JS, CSS, HTML </p>
 
+<!-- Simon game-->
+### <a href="https://github.com/alimardonbegov/simonGame" target="blank"> Simon game <img src="https://skillicons.dev/icons?i=github&theme=dark" width="20px" height="auto"/> </a>
+The game of short-term memory skill. The App creates a series of tones and lights and requires a user to repeat the sequence.
+<br/>
+<p>Stack: jQuery,JS, CSS, HTML </p>
 
-
-
+<!-- Drum kit-->
+### <a href="https://github.com/alimardonbegov/drumKit" target="blank"> Drum kit <img src="https://skillicons.dev/icons?i=github&theme=dark" width="20px" height="auto"/> </a>
+DOM manipulation using Drum Kit app to play sounds using keyboard or mouse. For each button unique sound.
+<br/>
+<p>Stack: jQuery,JS, CSS, HTML </p>
 
 
 
