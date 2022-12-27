@@ -13,11 +13,19 @@
 ### <a href="https://github.com/alimardonbegov/hacker_news_y" target="blank"> Hacker News <img src="https://skillicons.dev/icons?i=github&theme=dark" width="20px" height="auto"/> </a>
 Hacker News is a web app with News from the IT industry. It shows you the list of latest news with author and rating.
 <br/>
+- Developed the architecture of the frontend application
+- Developed SPA with two pages using react router
+- Сreated design by myself and applied the best practices of UI / UX
+<br/>
 **Stack:** React, Redux, Typescript, API, SCSS, HTML
 
 <!-- Weather App -->
 ### <a href="https://github.com/alimardonbegov/weather" target="blank"> Weather App <img src="https://skillicons.dev/icons?i=github&theme=dark" width="20px" height="auto"/> </a>
 The Wheather app is a weather forecasting web apllication which shows current weather and 5 day forecast of any location.
+<br/>
+- Developed the architecture of the frontend application
+- Developed SPA based on the design of some elements in Figma and modified the entire UI by myself
+- Implemented forecast page with detail information of any city for the next 5 days 
 <br/>
 **Stack:** React, Redux, Axios, API, Node, Express, JS, SCSS, HTML
 
@@ -25,13 +33,22 @@ The Wheather app is a weather forecasting web apllication which shows current we
 ### <a href="https://github.com/alimardonbegov/games" target="blank"> Game List <img src="https://skillicons.dev/icons?i=github&theme=dark" width="20px" height="auto"/> </a>
 A web app for searching games depends on you platform. Find a game, check for availability on another game console.
 <br/>
+- Developed SPA with several content pages using react router
+- Create designe by myself with elements from open source (images, some animations etc.)
+- Implemented a UI feature to display on each game card the relevant accessibility icons on different platforms
+<br/>
 **Stack:** React, API, JS, SCSS, HTML
 
-<!-- Contact List -->
-### <a href="https://github.com/alimardonbegov/contacts" target="blank"> Contact List <img src="https://skillicons.dev/icons?i=github&theme=dark" width="20px" height="auto"/> </a>
+<!-- Contacts-->
+### <a href="https://github.com/alimardonbegov/contacts" target="blank"> Contacts <img src="https://skillicons.dev/icons?i=github&theme=dark" width="20px" height="auto"/> </a>
 Contacts is a web app for saving phone numbers of you friends or colleagues.
 <br/>
+- Developed Frontend and set up server environment using node + express
+- Implemented functionality as getting and changing information on backend and render results on client side
+<br/>
 **Stack:** React, Node, Express, API, JS, Bootstrap, HTML
+
+
 
 
 
