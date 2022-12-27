@@ -65,7 +65,7 @@ Keeper is a note-taking web app. You may create a lot of notes, save them and de
 <br/>
 - Developed the architecture of the frontend application
 - Implemented functionality of creating and deleting several notes with title and content
-<p>Stack: React, Redux, JS, CSS, HTML </p>
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 <!-- TO DO LIST-->
@@ -74,19 +74,22 @@ To Do List helps create a list of things you want to do throughout the day. When
 <br/>
 - Developed the architecture of the frontend application
 - Implemented functionality of creating and deleting todo's items
-<p>Stack: React, Redux, JS, CSS, HTML </p>
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 <!-- Simon game-->
 ### <a href="https://github.com/alimardonbegov/simonGame" target="blank"> Simon game <img src="https://skillicons.dev/icons?i=github&theme=dark" width="20px" height="auto"/> </a>
 The game of short-term memory skill. The App creates a series of tones and lights and requires a user to repeat the sequence.
 <br/>
-<p>Stack: jQuery, JS, CSS, HTML </p>
+
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 <!-- Drum kit-->
 ### <a href="https://github.com/alimardonbegov/drumKit" target="blank"> Drum kit <img src="https://skillicons.dev/icons?i=github&theme=dark" width="20px" height="auto"/> </a>
 DOM manipulation using Drum Kit app to play sounds using keyboard or mouse. For each button unique sound.
 <br/>
-<p>Stack: JS, CSS, HTML </p>
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 
 
