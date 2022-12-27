@@ -27,8 +27,8 @@ The Wheather app is a weather forecasting web apllication which shows current we
 - Developed the architecture of the frontend application
 - Developed SPA based on the design of some elements in Figma and modified the entire UI by myself
 - Implemented forecast page with detail information of any city for the next 5 days 
-<br/>
-**Stack:** React, Redux, Axios, API, Node, Express, JS, SCSS, HTML
+<p>**Stack:** React, Redux, Axios, API, Node, Express, JS, SCSS, HTML </p>
+
 
 <!-- Game List -->
 ### <a href="https://github.com/alimardonbegov/games" target="blank"> Game List <img src="https://skillicons.dev/icons?i=github&theme=dark" width="20px" height="auto"/> </a>
