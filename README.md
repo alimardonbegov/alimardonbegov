@@ -18,7 +18,7 @@ Hacker News is a web app with News from the IT industry. It shows you the list o
 <br/>
 
 <a href="https://github.com/alimardonbegov/hacker_news_y" target="blank">
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="10px" height="auto"/>
 </a>
 <!-- [![GitHub](https://skillicons.dev/icons?i=github,figma&theme=dark)]](https://github.com/alimardonbegov/hacker_news_y), [Live project](https://abegov-hnews.web.app/) -->
 
