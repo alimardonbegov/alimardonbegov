@@ -16,6 +16,11 @@ Hacker News is a web app with News from the IT industry. It shows you the list o
 <br/>
 **Stack:** React, Redux, Typescript, API, SCSS, HTML
 
+### Weather App  <a href="https://github.com/alimardonbegov/weather" target="blank"> <img src="https://skillicons.dev/icons?i=github&theme=dark" width="20px" height="auto"/> </a>
+
+The Wheather app is a weather forecasting web apllication which shows current weather and 5 day forecast of any location.
+<br/>
+**Stack:** React, Redux, Axios, API, Node, Express, JS, SCSS, HTML
 
 
 
@@ -24,6 +29,3 @@ Hacker News is a web app with News from the IT industry. It shows you the list o
 
 
 
-Change the &theme=light to either dark or light. The theme is the background color, so light theme has a white icon background, and dark has a black-ish.
-Light Theme Example:
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
