@@ -11,14 +11,27 @@
 ## 💻 My projects
 <!-- Hacker News -->
 ### <a href="https://github.com/alimardonbegov/hacker_news_y" target="blank"> Hacker News <img src="https://skillicons.dev/icons?i=github&theme=dark" width="20px" height="auto"/> </a>
-Hacker News is a web app with News from the IT industry. It shows you the list of latest news with author and rating
+Hacker News is a web app with News from the IT industry. It shows you the list of latest news with author and rating.
 <br/>
 **Stack:** React, Redux, Typescript, API, SCSS, HTML
+
 <!-- Weather App -->
 ### <a href="https://github.com/alimardonbegov/weather" target="blank"> Weather App <img src="https://skillicons.dev/icons?i=github&theme=dark" width="20px" height="auto"/> </a>
 The Wheather app is a weather forecasting web apllication which shows current weather and 5 day forecast of any location.
 <br/>
 **Stack:** React, Redux, Axios, API, Node, Express, JS, SCSS, HTML
+
+<!-- Game List -->
+### <a href="https://github.com/alimardonbegov/games" target="blank"> Game List <img src="https://skillicons.dev/icons?i=github&theme=dark" width="20px" height="auto"/> </a>
+A web app for searching games depends on you platform. Find a game, check for availability on another game console.
+<br/>
+**Stack:** React, API, JS, SCSS, HTML
+
+<!-- Contact List -->
+### <a href="https://github.com/alimardonbegov/contacts" target="blank"> Contact List <img src="https://skillicons.dev/icons?i=github&theme=dark" width="20px" height="auto"/> </a>
+Contacts is a web app for saving phone numbers of you friends or colleagues.
+<br/>
+**Stack:** React, Node, Express, API, JS, Bootstrap, HTML
 
 
 
