@@ -69,13 +69,13 @@ Keeper is a note-taking web app. You may create a lot of notes, save them and de
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 <!-- TO DO LIST-->
-### <a href="https://github.com/alimardonbegov/todolistreact" target="blank"> TO DO <img src="https://skillicons.dev/icons?i=github&theme=dark" width="20px" height="auto"/> </a>
+### <a href="https://github.com/alimardonbegov/todo_ts" target="blank"> TO DO <img src="https://skillicons.dev/icons?i=github&theme=dark" width="20px" height="auto"/> </a>
 To Do List helps create a list of things you want to do throughout the day. Whenever you complete your task then you can delete it.
 <br/>
 - Developed the architecture of the frontend application
 - Implemented functionality of creating and deleting todo's items
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 <!-- Simon game-->
 ### <a href="https://github.com/alimardonbegov/simonGame" target="blank"> Simon game <img src="https://skillicons.dev/icons?i=github&theme=dark" width="20px" height="auto"/> </a>
