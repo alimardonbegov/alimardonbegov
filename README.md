@@ -17,7 +17,7 @@ Hacker News is a web app with News from the IT industry. It shows you the list o
 - Developed SPA with two pages using react router
 - Сreated design by myself and applied the best practices of UI / UX
 <p>Stack: React, Redux, Typescript, API, SCSS, HTML </p>
-
+<br/>
 
 <!-- Weather App -->
 ### <a href="https://github.com/alimardonbegov/weather" target="blank"> Weather App <img src="https://skillicons.dev/icons?i=github&theme=dark" width="20px" height="auto"/> </a>
@@ -27,7 +27,7 @@ The Wheather app is a weather forecasting web apllication which shows current we
 - Developed SPA based on the design of some elements in Figma and modified the entire UI by myself
 - Implemented forecast page with detail information of any city for the next 5 days 
 <p>Stack: React, Redux, Axios, API, Node, Express, JS, SCSS, HTML </p>
-
+<br/>
 
 <!-- Game List -->
 ### <a href="https://github.com/alimardonbegov/games" target="blank"> Game List <img src="https://skillicons.dev/icons?i=github&theme=dark" width="20px" height="auto"/> </a>
