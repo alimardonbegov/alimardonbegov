@@ -9,6 +9,7 @@
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
 ## 💻 My projects
+
 <!-- Hacker News -->
 ### <a href="https://github.com/alimardonbegov/hacker_news_y" target="blank"> Hacker News <img src="https://skillicons.dev/icons?i=github&theme=dark" width="20px" height="auto"/> </a>
 Hacker News is a web app with News from the IT industry. It shows you the list of latest news with author and rating.
@@ -17,6 +18,14 @@ Hacker News is a web app with News from the IT industry. It shows you the list o
 - Developed SPA with two pages using react router
 - Сreated design by myself and applied the best practices of UI / UX
 <p>Stack: React, Redux, Typescript, API, SCSS, HTML </p>
+
+<!-- Progress bar -->
+### <a href="https://github.com/alimardonbegov/progress_bar_component" target="blank"> Progress bar <img src="https://skillicons.dev/icons?i=github&theme=dark" width="20px" height="auto"/> </a>
+Controliable React component for stock market, that represent share of each value in the stock
+<br/>
+- Developed the functionality of rendering component and its fractions
+- Created the control panel for manage states
+<p>Stack: React, Redux, JS, SCSS, HTML </p>
 
 <!-- Weather App -->
 ### <a href="https://github.com/alimardonbegov/weather" target="blank"> Weather App <img src="https://skillicons.dev/icons?i=github&theme=dark" width="20px" height="auto"/> </a>
@@ -64,13 +73,13 @@ To Do List helps create a list of things you want to do throughout the day. When
 ### <a href="https://github.com/alimardonbegov/simonGame" target="blank"> Simon game <img src="https://skillicons.dev/icons?i=github&theme=dark" width="20px" height="auto"/> </a>
 The game of short-term memory skill. The App creates a series of tones and lights and requires a user to repeat the sequence.
 <br/>
-<p>Stack: jQuery,JS, CSS, HTML </p>
+<p>Stack: jQuery, JS, CSS, HTML </p>
 
 <!-- Drum kit-->
 ### <a href="https://github.com/alimardonbegov/drumKit" target="blank"> Drum kit <img src="https://skillicons.dev/icons?i=github&theme=dark" width="20px" height="auto"/> </a>
 DOM manipulation using Drum Kit app to play sounds using keyboard or mouse. For each button unique sound.
 <br/>
-<p>Stack: jQuery,JS, CSS, HTML </p>
+<p>Stack: JS, CSS, HTML </p>
 
 
 
