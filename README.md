@@ -1,5 +1,5 @@
 ####  Hi, how are you?👋
-- 😎 I am Frontend Developer 
+- 😎 I am Flutter and Frontend Developer 
 - 📫 Shoot me on [Telegram](https://t.me/alimardon_begov) or add me on [LinkedIn](https://www.linkedin.com/in/alimardon-begov/) :)
 
 ## 💻 Tech Stack:
