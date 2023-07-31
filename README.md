@@ -5,7 +5,7 @@
 ## 💻 Tech Stack:
 
 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />&nbsp
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />&nbsp
           
 
 
