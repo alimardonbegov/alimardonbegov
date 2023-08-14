@@ -9,9 +9,21 @@ My current tech stack *
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width='40' height='40'/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"  width='40' height='40'/>&nbsp;
 <img src="https://pub.dev/packages/bloc/versions/8.1.2/gen-res/gen/190x190/logo.webp"  height='42'/> &nbsp;
+<img src="https://modular.flutterando.com.br/img/logo.png"  height='42'/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"  width='40' height='40'/> &nbsp;
 <img src="https://styles.redditmedia.com/t5_6w8h95/styles/communityIcon_tchrb9f5jii91.png"  width='40' height='40'/> &nbsp;
 
+I worked with these packages:
+- flutter_modular
+- flutter_bloc
+- pocketbase
+- file_picker
+- desktop_drop
+- change_notifier_builder
+- path_provider
+- resource_importer
+- pdf
+- archive etc.
 
 \* Also, I know a bit about Frontend technologies (scroll below)
 
@@ -30,7 +42,7 @@ PerfinApp is a mobile app for personal finance management. Analyze balance, crea
 - Deployed the backend on fly.io
 
 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width='25' height='25'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"  width='25' height='25'/> <img src="https://pub.dev/packages/bloc/versions/8.1.2/gen-res/gen/190x190/logo.webp"  height='26'/> &nbsp; <img src="https://styles.redditmedia.com/t5_6w8h95/styles/communityIcon_tchrb9f5jii91.png"  width='25' height='25'/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width='25' height='25'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"  width='25' height='25'/> <img src="https://pub.dev/packages/bloc/versions/8.1.2/gen-res/gen/190x190/logo.webp"  height='26'/>  <img src="https://modular.flutterando.com.br/img/logo.png"  height='25'/> <img src="https://styles.redditmedia.com/t5_6w8h95/styles/communityIcon_tchrb9f5jii91.png"  width='25' height='25'/>
 
 
 <!-- Flash Chat -->
