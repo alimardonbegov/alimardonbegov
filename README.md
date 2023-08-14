@@ -19,8 +19,6 @@ I worked with these packages:
 - pocketbase
 - file_picker
 - desktop_drop
-- change_notifier_builder
-- path_provider
 - resource_importer
 - pdf
 - archive etc.
