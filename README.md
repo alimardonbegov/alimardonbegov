@@ -4,20 +4,21 @@
 
 ## 💻 Tech Stack:
 
+My main current tech stack
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width='40' height='40'/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"  width='40' height='40'/>&nbsp;
+<img src="https://pub.dev/packages/bloc/versions/8.1.2/gen-res/gen/190x190/logo.webp"  height='42'/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"  width='40' height='40'/> &nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
+<img src="https://styles.redditmedia.com/t5_6w8h95/styles/communityIcon_tchrb9f5jii91.png"  width='40' height='40'/> &nbsp;
+
+
+
 &nbsp;
 
 
-Frontend
+
+Also, I know a bit from Frontend technologies
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) <br>
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) <br>
@@ -25,6 +26,26 @@ Frontend
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
 ## 💻 My projects
+
+For personal uses:
+
+<!-- Perfin App -->
+### <a href="https://github.com/alimardonbegov/hacker_news_y" target="blank"> Perfin App <img src="https://skillicons.dev/icons?i=github&theme=dark" width="20px" height="auto"/> </a>
+PerfinApp is a mobile app for personal finance management. Analyze balance, create transactions, set categories for transactions and etc.
+<br/>
+- Use UI from()
+- Construct the architecture of the app
+- Configure SQLite database with PocketBase as backend
+- Deploy the backend on fly.io
+
+
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width='25' height='25'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"  width='25' height='25'/> <img src="https://pub.dev/packages/bloc/versions/8.1.2/gen-res/gen/190x190/logo.webp"  height='26'/> &nbsp; <img src="https://styles.redditmedia.com/t5_6w8h95/styles/communityIcon_tchrb9f5jii91.png"  width='25' height='25'/>
+
+
+
+
+
+For fun:
 
 <!-- Hacker News -->
 ### <a href="https://github.com/alimardonbegov/hacker_news_y" target="blank"> Hacker News <img src="https://skillicons.dev/icons?i=github&theme=dark" width="20px" height="auto"/> </a>
