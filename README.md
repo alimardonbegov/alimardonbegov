@@ -2,9 +2,11 @@
 - 😎 I am Flutter Developer 
 - 📫 Shoot me on [Telegram](https://t.me/alimardon_begov) or add me on [LinkedIn](https://www.linkedin.com/in/alimardon-begov/) :)
 
+&nbsp;
+
 ## 💻 Tech Stack:
 
-My current tech stack *
+My current tech stack
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width='40' height='40'/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"  width='40' height='40'/>&nbsp;
@@ -23,7 +25,6 @@ I worked with these packages:
 - pdf
 - archive etc.
 
-\* Also, I know a bit about Frontend technologies (scroll below)
 
 &nbsp;
 
@@ -44,14 +45,11 @@ PerfinApp is a mobile app for personal finance management. Analyze balance, crea
 
 
 <!-- Flash Chat -->
-### <a href="https://github.com/alimardonbegov/perfin" target="blank"> Flash Chat <img src="https://skillicons.dev/icons?i=github&theme=dark" width="20px" height="auto"/> </a>
-PerfinApp is a mobile app for personal finance management. Analyze balance, create transactions, set categories for transactions and etc.
+### <a href="https://github.com/alimardonbegov/flash_chat" target="blank"> Flash Chat <img src="https://skillicons.dev/icons?i=github&theme=dark" width="20px" height="auto"/> </a>
+Flashchat is a real-time chat with other users, using Firebase.
 <br/>
-- Used UI from https://rydmike.com/colorscheme
-- Constructed the architecture of the app
-- Configured SQLite database with Pocket Base as backend
-- Deployed the backend on fly.io
-
+- Firebase Authentication
+- Firebase Cloud Firestore 
 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width='25' height='25'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"  width='25' height='25'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"  width='25' height='25'/> &nbsp;
 
@@ -60,7 +58,10 @@ PerfinApp is a mobile app for personal finance management. Analyze balance, crea
 &nbsp;
 &nbsp;
 
-## Frontend Technologies and Projects
+## A little bit about Frontend as my previous work experience
+
+Technologies and Projects
+&nbsp;
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) <br>
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) <br>
