@@ -1,6 +1,6 @@
 ####  Hi, how are you?👋
 - 😎 I am Flutter Developer 
-- 📫 Shoot me on [Telegram](https://t.me/alimardon_begov) or add me on [LinkedIn](https://www.linkedin.com/in/alimardon-begov/) :)
+- 📫 Shoot me on [Telegram](https://t.me/alimardon_begov) :)
 
 &nbsp;
 
