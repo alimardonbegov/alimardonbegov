@@ -20,13 +20,14 @@ My current tech stack
 I worked with these packages:
 - flutter_modular
 - flutter_bloc
-- pocketbase
+- syncfusion_flutter_datepicker
+- syncfusion_flutter_dategrid
+- syncfusion_flutter_pdf
+- syncfusion_flutter_pdfviewer
+- shared_preferences
+- flutter_secure_storage
 - file_picker
-- desktop_drop
-- resource_importer
-- pdf
 - archive etc.
-
 
 &nbsp;
 
